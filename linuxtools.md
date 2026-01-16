@@ -1,4 +1,6 @@
 # Linux One-Click Tools
+
+Daily-use Linux apps.
 Click the app name → install → use.
 
 No terminal. No setup.
@@ -13,8 +15,8 @@ No terminal. No setup.
 * **[OBS Studio](https://flathub.org/apps/com.obsproject.Studio)**
   Screen recording & streaming
 
-* **[GIMP](https://flathub.org/apps/org.gimp.GIMP)**
-  Image editing
+* **[Krita](https://flathub.org/apps/org.kde.krita)**
+  Digital drawing & design
 
 ---
 
@@ -25,6 +27,9 @@ No terminal. No setup.
 
 * **[Heroic Games Launcher](https://flathub.org/apps/com.heroicgameslauncher.hgl)**
   Epic & GOG games
+
+* **[Lutris](https://flathub.org/apps/net.lutris.Lutris)**
+  All games in one launcher
 
 * **[WinBoat](https://flathub.org/apps/io.github.winboat.WinBoat)**
   One-click Windows apps
@@ -43,4 +48,5 @@ No terminal. No setup.
 * **[Timeshift](https://flathub.org/apps/org.timeshift.Timeshift)**
   System restore
 
+---
 
