@@ -1,15 +1,20 @@
-# Linux One-Click Tools
+Daily-use Linux apps.
+Click the app name → install → use.
 
-Click the name → download → run.
-
-No terminal. Minimal setup.
+No terminal. No setup.
 
 ---
 
-## Media & Content (AppImage / Official)
+## Media & Content
 
 * **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)**
-  Professional video editing (official installer)
+  Professional video editing
+
+* **[OBS Studio](https://flathub.org/apps/com.obsproject.Studio)**
+  Screen recording & streaming
+
+* **[Krita](https://flathub.org/apps/org.kde.krita)**
+  Digital drawing & design
 
 ---
 
@@ -25,14 +30,7 @@ No terminal. Minimal setup.
   All games in one launcher
 
 * **[WinBoat](https://github.com/winboat/winboat/releases)**
-  One-click Windows apps (AppImage)
-
----
-
-## Media & Design
-
-* **[Krita](https://flathub.org/apps/org.kde.krita)**
-  Digital drawing & design
+  One-click Windows apps
 
 ---
 
@@ -46,4 +44,7 @@ No terminal. Minimal setup.
 ## System Safety
 
 * **[Timeshift](https://github.com/linuxmint/timeshift/releases)**
-  
+  System restore
+
+
+
