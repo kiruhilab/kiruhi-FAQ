@@ -15,4 +15,4 @@ Here you’ll find answers to the most common questions about Kiruhi products, c
 
 💡 **Contribute:**  
 If you’d like to add new questions or improve existing answers, feel free to open a **pull request** or join our  
-👉 [Kiruhi Discord Server](https://discord.gg/...)!
+👉 [Kiruhi Discord Server](https://discord.gg/79JgHNqauU)!
