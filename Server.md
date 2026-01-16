@@ -9,8 +9,17 @@ Click → deploy → use.
 
 * **[Coolify](https://coolify.io)**
   Self-hosted app platform
+---
+## What You Need
+
+* Linux server
+* Docker
+* Storage for data
+* Backup location
+* Optional domain
 
 ---
+
 
 ## Apps
 
@@ -34,13 +43,5 @@ Click → deploy → use.
 
 ---
 
-## What You Need
 
-* Linux server
-* Docker
-* Storage for data
-* Backup location
-* Optional domain
-
----
 
