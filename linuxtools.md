@@ -1,22 +1,15 @@
 # Linux One-Click Tools
 
-Daily-use Linux apps.
-Click the app name → install → use.
+Click the name → download → run.
 
-No terminal. No setup.
+No terminal. Minimal setup.
 
 ---
 
-## Media & Content
+## Media & Content (AppImage / Official)
 
-* **[DaVinci Resolve](https://flathub.org/apps/com.blackmagicdesign.DaVinciResolve)**
-  Professional video editing
-
-* **[OBS Studio](https://flathub.org/apps/com.obsproject.Studio)**
-  Screen recording & streaming
-
-* **[Krita](https://flathub.org/apps/org.kde.krita)**
-  Digital drawing & design
+* **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)**
+  Professional video editing (official installer)
 
 ---
 
@@ -31,8 +24,15 @@ No terminal. No setup.
 * **[Lutris](https://flathub.org/apps/net.lutris.Lutris)**
   All games in one launcher
 
-* **[WinBoat](https://flathub.org/apps/io.github.winboat.WinBoat)**
-  One-click Windows apps
+* **[WinBoat](https://github.com/winboat/winboat/releases)**
+  One-click Windows apps (AppImage)
+
+---
+
+## Media & Design
+
+* **[Krita](https://flathub.org/apps/org.kde.krita)**
+  Digital drawing & design
 
 ---
 
@@ -45,8 +45,5 @@ No terminal. No setup.
 
 ## System Safety
 
-* **[Timeshift](https://flathub.org/apps/org.timeshift.Timeshift)**
-  System restore
-
----
-
+* **[Timeshift](https://github.com/linuxmint/timeshift/releases)**
+  
