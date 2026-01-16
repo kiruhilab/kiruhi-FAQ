@@ -1,1 +1,2 @@
 - [🐧 linux tools](./linuxtools.md)
+- [🖥️ Server](./Server.md)
