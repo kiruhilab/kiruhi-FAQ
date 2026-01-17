@@ -1,31 +1,33 @@
+# linux-ai.md
+
 Click the tool → use it.
 Linux-friendly. Minimal friction.
 
 ---
 
-## AI Models & Evaluation
+## AI Models & Evaluation (Web)
 
 * **[Groq](https://groq.com/)**
   Cheap and fast LLM API
 
 * **[LM Arena](https://lmarena.ai/)**
-  Compare LLMs side by side
+  Compare LLMs
 
 * **[Hugging Face](https://huggingface.co/)**
-  Fastest way to explore AI models
+  Explore AI models
 
 * **[Artificial Analysis](https://artificialanalysis.ai/)**
-  LLM benchmarks and comparisons
+  LLM benchmarks
 
 ---
 
 ## Local AI & Desktop Tools
 
-* **[Upscayl](https://github.com/upscayl/upscayl)**
+* **[Upscayl](https://flathub.org/apps/org.upscayl.Upscayl)**
   Local image upscaling
 
-* **[Screenpipe](https://github.com/mediar-ai/screenpipe)**
-  Searchable screen recording
+* **[Screenpipe](https://github.com/mediar-ai/screenpipe/releases)**
+  Searchable screen recording (AppImage)
 
 * **[Pinokio](https://pinokio.computer/)**
   One-click local AI apps
@@ -44,7 +46,7 @@ Linux-friendly. Minimal friction.
 
 ## Voice & Audio AI
 
-* **[Coqui TTS](https://coqui.ai/)**
+* **[Coqui TTS](https://github.com/coqui-ai/TTS)**
   Local text to speech
 
 ---
