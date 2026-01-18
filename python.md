@@ -22,9 +22,6 @@ No theory. No jargon. Just things that work.
 * [🛠️ Tools](./python-tools.md)
   Editors, helpers, and tools that make Python easier
 
-* [🤖 AI & Data](./python-ai-data.md)
-  Use Python for AI, data, and smart projects
-
 * [🚀 Deploy](./python-deploy.md)
   Run your Python project for others to use
 
