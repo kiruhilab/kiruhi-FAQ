@@ -22,10 +22,6 @@ Here you’ll find practical guides and curated resources for Linux users and ho
 
 * [🤖 AI on Linux](./linux-ai.md)
   Local & web-based AI tools
-  
-* [🎮 Games](./linux-games.md)
-  Linux-compatible games and gaming tips
-
 
 ---
 
