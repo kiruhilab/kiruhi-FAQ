@@ -10,6 +10,7 @@ Here you’ll find answers to the most common questions about Kiruhi products, c
 - [🐧 Linux](./linux.md)
 - [🛍️ Kiruhi Products](./kiruhi-products.md)
 - [💬 Discord Server](./discord.md)
+- [👋 Who am I?](./whoaml?)
 
 ---
 
