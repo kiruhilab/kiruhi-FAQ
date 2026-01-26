@@ -13,7 +13,7 @@ Linux-friendly. Minimal friction.
 * **[LM Arena](https://lmarena.ai/)**
   Compare LLMs
 
-* **[Hugging Face](https://huggingface.co/)**+* **[Ollama ](https://ollama.com/)**
+* **[Hugging Face](https://huggingface.co/)** +  **[Ollama ](https://ollama.com/)**
   Explore AI models
 
 * **[Artificial Analysis](https://artificialanalysis.ai/)**
