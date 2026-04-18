@@ -7,8 +7,8 @@ Clean, beginner-friendly tools for building Python apps fast.
 ## Core
 
 * **pydantic**  
-  Validate and structure your data بسهولة
-
+  Validate and structure your data 
+  
 * **typer**  
   Build CLI apps quickly
 
