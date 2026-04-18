@@ -28,7 +28,3 @@ All contributions are highly welcome!
 ---
 
 **License:** [MIT](LICENSE)
-
----
-
-**Popular Topics:** python automation, linux ai setup, local ai tools, python faq, linux automation, ai agents, open source faq, devops guides
